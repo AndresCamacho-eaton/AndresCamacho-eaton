@@ -28,12 +28,12 @@
         <img src="https://badgen.net/badge/PostgreSQL/database/0F5DBD?icon=PostgreSQL" height="25" alt="MySQL">
         <img src="https://badgen.net/badge/Docker/container/0DB7ED?icon=docker" height="25" alt="Docker">
         <img src="https://badgen.net/badge/AWS/cloud/FF9900?icon=amazonaws" height="25" alt="AWS">
-        <img src="https://badgen.net/badge/Google%25Cloud/cloud/4285F4?icon=googlecloud" height="25" alt="Google Cloud">
+        <img src="https://badgen.net/badge/Google Cloud/cloud/4285F4?icon=googlecloud" height="25" alt="Google Cloud">
         <img src="https://badgen.net/badge/Git/VCS/F05033?icon=git" height="25" alt="Git">
         <img src="https://badgen.net/badge/NPM/pkg/000000?icon=npm" height="25" alt="NPM">
         <img src="https://badgen.net/badge/bunjs/pkg/000000?icon=bun" height="25" alt="NPM">
-        <img src="https://badgen.net/badge/VS%25Code/editor/0078D7?icon=visualstudiocode" height="25" alt="Visual Studio Code">
-        <img src="https://badgen.net/badge/Visual%25Studio/IDE/5C2D91?icon=visualstudio" height="25" alt="Visual Studio">
+        <img src="https://badgen.net/badge/VS Code/editor/0078D7?icon=visualstudiocode" height="25" alt="Visual Studio Code">
+        <img src="https://badgen.net/badge/Visual Studio/IDE/5C2D91?icon=visualstudio" height="25" alt="Visual Studio">
         <img src="https://badgen.net/badge/GitHub/repo/121011?icon=github" height="25" alt="GitHub">
         <img src="https://badgen.net/badge/Bitbucket/repo/121011?icon=Bitbucket" height="25" alt="Bitbucket">
         <img src="https://badgen.net/badge/Ubuntu/Linux/E95425?icon=ubuntu" height="25" alt="Ubuntu">    

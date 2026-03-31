@@ -13,7 +13,6 @@
         <img src="https://badgen.net/badge/Node.js/tech/43853D?icon=nodedotjs" height="25" alt="Node.js">
         <img src="https://badgen.net/badge/JavaScript/ES6/323325?icon=javascript" height="25" alt="JavaScript">
         <img src="https://badgen.net/badge/PHP/8.4/323325?icon=PHP" height="25" alt="PHP">
-        <img src="https://badgen.net/badge/Java/8.4/323325?icon=Java" height="25" alt="Java">
         <img src="https://badgen.net/badge/Python/lang/14354C?icon=python" height="25" alt="Python">
         <img src="https://badgen.net/badge/HTML5/markup/E34F26?icon=html5" height="25" alt="HTML5">
         <img src="https://badgen.net/badge/Discord.js/lib/2C3454?icon=discord" height="25" alt="Discord.js">
